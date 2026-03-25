@@ -757,7 +757,7 @@
                 id: 1,
                 title: 'iPhone 14 Pro Max',
                 price: 1999,
-                oldPrice: 1499,
+                oldPrice: free,
                 rating: 5,
                 reviews: 128,
                 badge: 'New',
